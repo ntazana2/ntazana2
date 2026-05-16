@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ntazana2
 - 👀 I’m interested in full stack development, Animations and CGI
-- 🌱 I’m currently learning kotlin, ktor, CGI
+- 🌱 I’m currently creating a Ride Hailing System, SaaS for Businesses in Southern Africa
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ntazanakasitu2@gmail.com
 
