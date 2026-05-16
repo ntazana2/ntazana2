@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ntazana2
 - 👀 I’m interested in full stack development, Animations and CGI
-- 🌱 I’m currently creating a Ride Hailing System, SaaS for Businesses in Southern Africa
+- 🌱 I’m currently creating a Ride Hailing System, a SaaS for Businesses in Southern Africa
+- (We'll have a payments app, a fraud detection app, hive app)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ntazanakasitu2@gmail.com
 
